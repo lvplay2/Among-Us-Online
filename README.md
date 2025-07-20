@@ -3,7 +3,7 @@
 
 Welcome to Among Us Online! This is a repo that aims to porting Among Us online again!
 
-You can fork our sourse code, or simply get to playing!
+You can fork our repo, or simply get to playing!
 
 
 
