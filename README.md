@@ -1,10 +1,5 @@
-## Among Us Online
-*The best port of Among Us online known to man*
-
-Welcome to Among Us Online! This is a repo that aims to porting Among Us online again!
-
-You can fork our repo, or simply get to playing!
-
+## Among Us Web Port (Among Impostor)
+This is a web port of Among Us originally made by Moana Games. Unlike the original game, this fangame is not multiplayer and you play with bots.
 
 
 ---
